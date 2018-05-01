@@ -1,5 +1,6 @@
 # Morphology
 Implementation of the four Elementry Morphology Operations
+
 1 Input1 (argv[1]): a txt file representing a binary image with header.
 
  2. Input2 (argv[2]): a txt file representing a binary image of a structuring element 
